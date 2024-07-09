@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Adityaachaudhary/Leetcode/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Adityaachaudhary/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,4 +36,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1946-minimum-absolute-sum-difference](https://github.com/Adityaachaudhary/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
+## Hash Table
+|  |
+| ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+## Counting
+|  |
+| ------- |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 <!---LeetCode Topics End-->
