@@ -1,15 +1,15 @@
 class Solution {
     public int countKDifference(int[] nums, int k) {
         int count = 0;
-        int[] dp = new int[200001]; // This array will keep track of the frequency of each number in nums.
+        Map<Integer, Integer> map = new HashMap<>();
 
-        for (int i : nums) {
-            // Update count based on the frequencies of (i - k) and (i + k)
-            if (i - k >= 0) count += dp[i - k];
-            if (i + k <= 200000) count += dp[i + k];
+        for (int num : nums) {
+            // Check for existing pairs with difference k
+            count += map.getOrDefault(num - k, 0);
+            count += map.getOrDefault(num + k, 0);
 
-            // Update the frequency array
-            dp[i]++;
+            // Update the frequency map
+            map.put(num, map.getOrDefault(num, 0) + 1);
         }
 
         return count;
