@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0037-sudoku-solver](https://github.com/Adityaachaudhary/Leetcode/tree/master/0037-sudoku-solver) |
 | [0056-merge-intervals](https://github.com/Adityaachaudhary/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adityaachaudhary/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Adityaachaudhary/Leetcode/tree/master/0118-pascals-triangle) |
 | [0283-move-zeroes](https://github.com/Adityaachaudhary/Leetcode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0056-merge-intervals](https://github.com/Adityaachaudhary/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adityaachaudhary/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Adityaachaudhary/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 ## Ordered Set
 |  |
@@ -88,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Adityaachaudhary/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Adityaachaudhary/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Adityaachaudhary/Leetcode/tree/master/0283-move-zeroes) |
