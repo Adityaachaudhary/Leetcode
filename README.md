@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Adityaachaudhary/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0283-move-zeroes](https://github.com/Adityaachaudhary/Leetcode/tree/master/0283-move-zeroes) |
+| [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -130,4 +132,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Adityaachaudhary/Leetcode/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
