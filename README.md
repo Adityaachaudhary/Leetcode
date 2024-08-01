@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Adityaachaudhary/Leetcode/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0494-target-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adityaachaudhary/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Adityaachaudhary/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Adityaachaudhary/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Adityaachaudhary/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/0169-majority-element) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adityaachaudhary/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Adityaachaudhary/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 ## Ordered Set
 |  |
@@ -91,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/Adityaachaudhary/Leetcode/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Adityaachaudhary/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Stack
 |  |
 | ------- |
