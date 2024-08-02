@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/Adityaachaudhary/Leetcode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/Adityaachaudhary/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
@@ -92,6 +93,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Adityaachaudhary/Leetcode/tree/master/0067-add-binary) |
+| [0168-excel-sheet-column-title](https://github.com/Adityaachaudhary/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0445-add-two-numbers-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaachaudhary/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Stack
