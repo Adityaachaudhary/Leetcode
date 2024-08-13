@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Adityaachaudhary/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Adityaachaudhary/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Adityaachaudhary/Leetcode/tree/master/0037-sudoku-solver) |
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Adityaachaudhary/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Adityaachaudhary/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adityaachaudhary/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Adityaachaudhary/Leetcode/tree/master/0075-sort-colors) |
