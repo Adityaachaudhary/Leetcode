@@ -85,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Adityaachaudhary/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/0202-happy-number) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Adityaachaudhary/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0067-add-binary](https://github.com/Adityaachaudhary/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Adityaachaudhary/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0202-happy-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaachaudhary/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Stack
@@ -127,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Adityaachaudhary/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityaachaudhary/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Adityaachaudhary/Leetcode/tree/master/0283-move-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
