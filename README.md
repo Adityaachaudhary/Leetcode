@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/Adityaachaudhary/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0416-partition-equal-subset-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaachaudhary/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Adityaachaudhary/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Adityaachaudhary/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Counting
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0020-valid-parentheses) |
 | [0445-add-two-numbers-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -186,4 +189,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Adityaachaudhary/Leetcode/tree/master/0303-range-sum-query-immutable) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
