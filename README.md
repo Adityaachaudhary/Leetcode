@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0067-add-binary](https://github.com/Adityaachaudhary/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Adityaachaudhary/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0168-excel-sheet-column-title](https://github.com/Adityaachaudhary/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0443-string-compression](https://github.com/Adityaachaudhary/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Backtracking
 |  |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Adityaachaudhary/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Adityaachaudhary/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
