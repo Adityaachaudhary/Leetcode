@@ -1,35 +1,28 @@
 class Solution {
     public int characterReplacement(String s, int k) {
-        // Initialising an empty array to store the count of the 
-        // characters in the given string s
-        int[] arr = new int[26];
-        int res = 0;
-        int max = 0;
+         int maxLen = 0;       // To keep track of the maximum length of substring
+    int maxCount = 0;     // To keep track of the count of the most frequent character in the current window
+    int[] count = new int[26]; // Array to count characters
 
-        // The left pointer for the sliding window is l AND r is the 
-        // right pointer
-        int l = 0;
-        for (int r = 0; r < s.length(); r++) {
-            // Counting the number of each character in the string s
-            arr[s.charAt(r) - 'A']++;
+    int left = 0;         // Left end of the window
 
-            // Checking the character with max number of occurrence
-            max = Math.max(max, arr[s.charAt(r) - 'A']);
+    for (int right = 0; right < s.length(); right++) {
+        // Increase the count of the current character
+        count[s.charAt(right) - 'A']++;
 
-            // Now we check if our current window is valid or not
-            if (r - l + 1 - max > k) { 
-            // this means the no. of replacements is more than
-            // allowed (k)
-                // Decrementing the count of the character which was 
-                // at l because it is no longer in the window
-                arr[s.charAt(l) - 'A']--;
-                l++;
-            }
+        // Update the count of the most frequent character in the current window
+        maxCount = Math.max(maxCount, count[s.charAt(right) - 'A']);
 
-            // The max our window can be
-            res = Math.max(res, r - l + 1);
+        // If the number of characters that need to be replaced exceeds k, move the left pointer
+        if (right - left + 1 - maxCount > k) {
+            count[s.charAt(left) - 'A']--;
+            left++;
         }
 
-        return res;
+        // Update the maximum length of substring
+        maxLen = Math.max(maxLen, right - left + 1);
+    }
+
+    return maxLen;
     }
 }
