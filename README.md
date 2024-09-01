@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Adityaachaudhary/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Adityaachaudhary/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Adityaachaudhary/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Adityaachaudhary/Leetcode/tree/master/0054-spiral-matrix) |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityaachaudhary/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Adityaachaudhary/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
