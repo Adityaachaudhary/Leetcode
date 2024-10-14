@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Adityaachaudhary/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Adityaachaudhary/Leetcode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Adityaachaudhary/Leetcode/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/Adityaachaudhary/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Adityaachaudhary/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Adityaachaudhary/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Adityaachaudhary/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Adityaachaudhary/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Adityaachaudhary/Leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Adityaachaudhary/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Adityaachaudhary/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Adityaachaudhary/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Adityaachaudhary/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -217,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/Adityaachaudhary/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Adityaachaudhary/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Adityaachaudhary/Leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Adityaachaudhary/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Adityaachaudhary/Leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Divide and Conquer
 |  |
