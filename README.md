@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/Adityaachaudhary/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Adityaachaudhary/Leetcode/tree/master/0686-repeated-string-match) |
+| [2470-removing-stars-from-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Adityaachaudhary/Leetcode/tree/master/0739-daily-temperatures) |
+| [2470-removing-stars-from-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -243,6 +245,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Adityaachaudhary/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Adityaachaudhary/Leetcode/tree/master/0067-add-binary) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adityaachaudhary/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2470-removing-stars-from-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
