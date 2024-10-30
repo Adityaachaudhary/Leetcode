@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaachaudhary/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Adityaachaudhary/Leetcode/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Adityaachaudhary/Leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0948-sort-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Adityaachaudhary/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityaachaudhary/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Adityaachaudhary/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/Adityaachaudhary/Leetcode/tree/master/0792-binary-search) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Adityaachaudhary/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 ## Sorting
 |  |
