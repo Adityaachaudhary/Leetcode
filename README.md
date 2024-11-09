@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Adityaachaudhary/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adityaachaudhary/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Adityaachaudhary/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Dynamic Programming
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/Adityaachaudhary/Leetcode/tree/master/0792-binary-search) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Adityaachaudhary/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityaachaudhary/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Adityaachaudhary/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Ordered Set
 |  |
 | ------- |
