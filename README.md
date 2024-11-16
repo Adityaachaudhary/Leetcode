@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Adityaachaudhary/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Adityaachaudhary/Leetcode/tree/master/0792-binary-search) |
 | [0948-sort-an-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0948-sort-an-array) |
+| [0966-binary-subarrays-with-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Adityaachaudhary/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityaachaudhary/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Adityaachaudhary/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaachaudhary/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Adityaachaudhary/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityaachaudhary/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaachaudhary/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0966-binary-subarrays-with-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## String Matching
 |  |
@@ -322,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Adityaachaudhary/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Adityaachaudhary/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0966-binary-subarrays-with-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Monotonic Stack
 |  |
