@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Adityaachaudhary/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Adityaachaudhary/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Adityaachaudhary/Leetcode/tree/master/0062-unique-paths) |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Adityaachaudhary/Leetcode/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Adityaachaudhary/Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/Adityaachaudhary/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Adityaachaudhary/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/Adityaachaudhary/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityaachaudhary/Leetcode/tree/master/0232-implement-queue-using-stacks) |
