@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Adityaachaudhary/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaachaudhary/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Adityaachaudhary/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityaachaudhary/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Adityaachaudhary/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Adityaachaudhary/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
