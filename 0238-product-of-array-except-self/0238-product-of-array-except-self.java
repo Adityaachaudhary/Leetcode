@@ -1,25 +1,28 @@
 class Solution {
     public int[] productExceptSelf(int[] nums) {
-       int n = nums.length;
-        int[] prefix = new int[n];
-        int[] suffix = new int[n];
-        int[] ans = new int[n];
-
-        prefix[0] = nums[0];
-        suffix[n - 1] = nums[n - 1];
-
-        for(int i = 1; i < n; i++){
-            prefix[i] = prefix[i - 1] * nums[i];
+        int n = nums.length;
+        int[] output = new int[n];
+        
+        // If the array is empty, return an empty output (edge case not necessary as per problem constraints)
+        if (n == 0) {
+            return output;
         }
-        for(int i = n - 2; i >= 0; i--){
-            suffix[i] = suffix[i + 1] * nums[i];
+        
+        int product = 1;
+        
+        // Traverse from the left and calculate product
+        for (int i = 0; i < n;i++) {
+            output[i] = product;
+            product *= nums[i];
         }
-
-        ans[0] = suffix[1];
-        ans[n - 1] = prefix[n - 2];
-        for(int i = 1; i <= n - 2; i++){
-            ans[i] = prefix[ i - 1] * suffix[i + 1];
+        
+        // Traverse from the right and update the output array
+        product = 1;
+        for (int i = n - 1; i >= 0; i--) {
+            output[i] *= product;
+            product *= nums[i];
         }
-        return ans;
+        
+        return output;
     }
 }
