@@ -8,7 +8,7 @@ class Solution {
     public void backtrack(List<String> ans,String cur,int open,int close,int max){
         if(cur.length() == max*2){
             ans.add(cur);
-            return;
+            return ;
         }
         if(open<max)
             backtrack(ans,cur+"(",open+1,close,max);
