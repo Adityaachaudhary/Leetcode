@@ -83,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Adityaachaudhary/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaachaudhary/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Adityaachaudhary/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/Adityaachaudhary/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0494-target-sum) |
 | [1013-fibonacci-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/1013-fibonacci-number) |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Adityaachaudhary/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Adityaachaudhary/Leetcode/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaachaudhary/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Adityaachaudhary/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/Adityaachaudhary/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Adityaachaudhary/Leetcode/tree/master/0443-string-compression) |
 | [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/Adityaachaudhary/Leetcode/tree/master/1894-merge-strings-alternately) |
