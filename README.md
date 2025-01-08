@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Adityaachaudhary/Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaachaudhary/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Adityaachaudhary/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0567-permutation-in-string) |
@@ -257,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0225-implement-stack-using-queues](https://github.com/Adityaachaudhary/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityaachaudhary/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Adityaachaudhary/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Adityaachaudhary/Leetcode/tree/master/0735-asteroid-collision) |
@@ -270,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/Adityaachaudhary/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0206-reverse-linked-list](https://github.com/Adityaachaudhary/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adityaachaudhary/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
