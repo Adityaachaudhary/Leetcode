@@ -126,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1508-longest-happy-prefix](https://github.com/Adityaachaudhary/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adityaachaudhary/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/Adityaachaudhary/Leetcode/tree/master/1894-merge-strings-alternately) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Adityaachaudhary/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
 |  |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Adityaachaudhary/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Adityaachaudhary/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Adityaachaudhary/Leetcode/tree/master/0883-car-fleet) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Adityaachaudhary/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Adityaachaudhary/Leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Adityaachaudhary/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Simulation
 |  |
 | ------- |
