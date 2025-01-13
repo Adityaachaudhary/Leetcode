@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1894-merge-strings-alternately](https://github.com/Adityaachaudhary/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Adityaachaudhary/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Adityaachaudhary/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Backtracking
 |  |
 | ------- |
@@ -212,12 +213,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Adityaachaudhary/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Adityaachaudhary/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaachaudhary/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/Adityaachaudhary/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
 |  |
 | ------- |
