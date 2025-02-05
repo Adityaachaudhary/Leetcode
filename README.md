@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0316-remove-duplicate-letters](https://github.com/Adityaachaudhary/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Adityaachaudhary/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaachaudhary/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Adityaachaudhary/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Adityaachaudhary/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaachaudhary/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaachaudhary/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0169-majority-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaachaudhary/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Adityaachaudhary/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
@@ -462,6 +465,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Adityaachaudhary/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Adityaachaudhary/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Merge Sort
 |  |
 | ------- |
