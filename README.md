@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Adityaachaudhary/Leetcode/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Adityaachaudhary/Leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Adityaachaudhary/Leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Adityaachaudhary/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Adityaachaudhary/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0567-permutation-in-string) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/Adityaachaudhary/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/0202-happy-number) |
+| [0415-add-strings](https://github.com/Adityaachaudhary/Leetcode/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaachaudhary/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/1013-fibonacci-number) |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adityaachaudhary/Leetcode/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Adityaachaudhary/Leetcode/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Adityaachaudhary/Leetcode/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/Adityaachaudhary/Leetcode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adityaachaudhary/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/2470-removing-stars-from-a-string) |
