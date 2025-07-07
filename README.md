@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1046-max-consecutive-ones-iii](https://github.com/Adityaachaudhary/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1319-unique-number-of-occurrences](https://github.com/Adityaachaudhary/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaachaudhary/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Adityaachaudhary/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Adityaachaudhary/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityaachaudhary/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaachaudhary/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0883-car-fleet](https://github.com/Adityaachaudhary/Leetcode/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0948-sort-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Adityaachaudhary/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityaachaudhary/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Adityaachaudhary/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Adityaachaudhary/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Adityaachaudhary/Leetcode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/Adityaachaudhary/Leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Adityaachaudhary/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Adityaachaudhary/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -449,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Adityaachaudhary/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Adityaachaudhary/Leetcode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0948-sort-an-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0948-sort-an-array) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Adityaachaudhary/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Quickselect
 |  |
 | ------- |
