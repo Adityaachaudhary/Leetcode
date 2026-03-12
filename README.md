@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/Adityaachaudhary/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adityaachaudhary/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Adityaachaudhary/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Adityaachaudhary/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Adityaachaudhary/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0494-target-sum) |
@@ -380,6 +381,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0078-subsets](https://github.com/Adityaachaudhary/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Adityaachaudhary/Leetcode/tree/master/0338-counting-bits) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Adityaachaudhary/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Adityaachaudhary/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 ## Matrix
