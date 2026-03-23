@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Adityaachaudhary/Leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Adityaachaudhary/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Adityaachaudhary/Leetcode/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Adityaachaudhary/Leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Adityaachaudhary/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Adityaachaudhary/Leetcode/tree/master/0049-group-anagrams) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Adityaachaudhary/Leetcode/tree/master/0037-sudoku-solver) |
+| [0039-combination-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Adityaachaudhary/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0494-target-sum) |
