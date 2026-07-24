@@ -4,7 +4,6 @@ import java.util.List;
 class Solution {
     public List<String> restoreIpAddresses(String s) {
         List<String> result = new ArrayList<>();
-        // If the string is too short or too long, it's impossible to form a valid IP.
         // A valid IP has between 4 and 12 digits.
         if (s == null || s.length() < 4 || s.length() > 12) {
             return result;
@@ -18,7 +17,6 @@ class Solution {
     private void backtrack(String s, int startIndex, List<String> segments, List<String> result) {
         // Base Case 1: If we have successfully formed exactly 4 segments
         if (segments.size() == 4) {
-            // If we also consumed the entire input string, we found a valid IP!
             if (startIndex == s.length()) {
                 result.add(String.join(".", segments));
             }
@@ -32,7 +30,6 @@ class Solution {
 
         // Try taking 1, 2, or 3 digits for the next segment
         for (int len = 1; len <= 3; len++) {
-            // Make sure we don't go out of bounds of the string
             if (startIndex + len > s.length()) {
                 break;
             }
