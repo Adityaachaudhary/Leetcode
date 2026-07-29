@@ -581,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Adityaachaudhary/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Adityaachaudhary/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1827-invalid-tweets](https://github.com/Adityaachaudhary/Leetcode/tree/master/1827-invalid-tweets) |
+| [1873-calculate-special-bonus](https://github.com/Adityaachaudhary/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Adityaachaudhary/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Doubly-Linked List
 |  |
