@@ -163,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Adityaachaudhary/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2470-removing-stars-from-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Adityaachaudhary/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3617-find-the-original-typed-string-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Adityaachaudhary/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -267,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Adityaachaudhary/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Adityaachaudhary/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Counting
 |  |
@@ -276,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1983-maximum-population-year](https://github.com/Adityaachaudhary/Leetcode/tree/master/1983-maximum-population-year) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Adityaachaudhary/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Linked List
 |  |
@@ -460,6 +464,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Adityaachaudhary/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Adityaachaudhary/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
