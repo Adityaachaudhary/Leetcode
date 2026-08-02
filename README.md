@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Adityaachaudhary/Leetcode/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Adityaachaudhary/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Adityaachaudhary/Leetcode/tree/master/0792-binary-search) |
+| [0877-stone-game](https://github.com/Adityaachaudhary/Leetcode/tree/master/0877-stone-game) |
 | [0883-car-fleet](https://github.com/Adityaachaudhary/Leetcode/tree/master/0883-car-fleet) |
 | [0940-fruit-into-baskets](https://github.com/Adityaachaudhary/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0948-sort-an-array) |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Adityaachaudhary/Leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/Adityaachaudhary/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0877-stone-game](https://github.com/Adityaachaudhary/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/1013-fibonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## String
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0445-add-two-numbers-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/Adityaachaudhary/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Adityaachaudhary/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Adityaachaudhary/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Adityaachaudhary/Leetcode/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Adityaachaudhary/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaachaudhary/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -627,4 +630,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adityaachaudhary/Leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Adityaachaudhary/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
