@@ -331,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adityaachaudhary/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Adityaachaudhary/Leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
 | ------- |
@@ -636,4 +637,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0486-predict-the-winner](https://github.com/Adityaachaudhary/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Adityaachaudhary/Leetcode/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
