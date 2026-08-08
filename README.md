@@ -608,6 +608,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1827-invalid-tweets](https://github.com/Adityaachaudhary/Leetcode/tree/master/1827-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/Adityaachaudhary/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Adityaachaudhary/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Adityaachaudhary/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Doubly-Linked List
 |  |
 | ------- |
