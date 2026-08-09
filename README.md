@@ -605,6 +605,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1527-patients-with-a-condition](https://github.com/Adityaachaudhary/Leetcode/tree/master/1527-patients-with-a-condition) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Adityaachaudhary/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1667-fix-names-in-a-table](https://github.com/Adityaachaudhary/Leetcode/tree/master/1667-fix-names-in-a-table) |
+| [1693-daily-leads-and-partners](https://github.com/Adityaachaudhary/Leetcode/tree/master/1693-daily-leads-and-partners) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Adityaachaudhary/Leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/Adityaachaudhary/Leetcode/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Adityaachaudhary/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
