@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1508-longest-happy-prefix](https://github.com/Adityaachaudhary/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Adityaachaudhary/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Adityaachaudhary/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1894-merge-strings-alternately](https://github.com/Adityaachaudhary/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Adityaachaudhary/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0948-sort-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Adityaachaudhary/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Adityaachaudhary/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityaachaudhary/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Adityaachaudhary/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1946-minimum-absolute-sum-difference](https://github.com/Adityaachaudhary/Leetcode/tree/master/1946-minimum-absolute-sum-difference) |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0966-binary-subarrays-with-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Adityaachaudhary/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaachaudhary/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Adityaachaudhary/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Adityaachaudhary/Leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Adityaachaudhary/Leetcode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Adityaachaudhary/Leetcode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -488,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/Adityaachaudhary/Leetcode/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Adityaachaudhary/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Adityaachaudhary/Leetcode/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
