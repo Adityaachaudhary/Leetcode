@@ -182,6 +182,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Adityaachaudhary/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Adityaachaudhary/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3498-reverse-degree-of-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3617-find-the-original-typed-string-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
 |  |
@@ -515,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0735-asteroid-collision](https://github.com/Adityaachaudhary/Leetcode/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adityaachaudhary/Leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2470-removing-stars-from-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Design
 |  |
 | ------- |
