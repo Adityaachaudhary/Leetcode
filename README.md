@@ -695,4 +695,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Adityaachaudhary/Leetcode/tree/master/1872-stone-game-viii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
