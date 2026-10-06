@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/Adityaachaudhary/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Adityaachaudhary/Leetcode/tree/master/0686-repeated-string-match) |
+| [0856-score-of-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0856-score-of-parentheses) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Adityaachaudhary/Leetcode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1508-longest-happy-prefix](https://github.com/Adityaachaudhary/Leetcode/tree/master/1508-longest-happy-prefix) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -379,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Adityaachaudhary/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Adityaachaudhary/Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Adityaachaudhary/Leetcode/tree/master/0739-daily-temperatures) |
+| [0856-score-of-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0883-car-fleet](https://github.com/Adityaachaudhary/Leetcode/tree/master/0883-car-fleet) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Adityaachaudhary/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -700,4 +702,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0022-generate-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
