@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0948-sort-an-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Adityaachaudhary/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Adityaachaudhary/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1267-count-servers-that-communicate](https://github.com/Adityaachaudhary/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1319-unique-number-of-occurrences](https://github.com/Adityaachaudhary/Leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Adityaachaudhary/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Adityaachaudhary/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/Adityaachaudhary/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Adityaachaudhary/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Adityaachaudhary/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1267-count-servers-that-communicate](https://github.com/Adityaachaudhary/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1983-maximum-population-year](https://github.com/Adityaachaudhary/Leetcode/tree/master/1983-maximum-population-year) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Adityaachaudhary/Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Adityaachaudhary/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -453,6 +455,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Adityaachaudhary/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adityaachaudhary/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Adityaachaudhary/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/Adityaachaudhary/Leetcode/tree/master/1267-count-servers-that-communicate) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Adityaachaudhary/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -677,6 +680,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0110-balanced-binary-tree](https://github.com/Adityaachaudhary/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adityaachaudhary/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adityaachaudhary/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [1267-count-servers-that-communicate](https://github.com/Adityaachaudhary/Leetcode/tree/master/1267-count-servers-that-communicate) |
 ## Binary Tree
 |  |
 | ------- |
@@ -710,4 +714,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Adityaachaudhary/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Adityaachaudhary/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Adityaachaudhary/Leetcode/tree/master/1267-count-servers-that-communicate) |
+## Union-Find
+|  |
+| ------- |
+| [1267-count-servers-that-communicate](https://github.com/Adityaachaudhary/Leetcode/tree/master/1267-count-servers-that-communicate) |
 <!---LeetCode Topics End-->
